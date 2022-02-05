@@ -1,3 +1,5 @@
+![alt text](https://github.com/NFTERA/Solanart-bot/blob/main/Untitled.png?raw=true)
+
 NFT price tracker bot for Solanart with Telegram notifications.
 
 This is simple tool for tracking NFTs prices on Solanart. Also it has Telegram notifications. 
@@ -7,8 +9,6 @@ Features:
 - Telegram-bot notifications
 - Background work in tray
 - Saving bot configuration
-
-![alt text](https://github.com/NFTERA/Solanart-bot/blob/main/Untitled.png?raw=true)
 
 ### How it works
 When NFT with specified price will be listed on Solanart you will receive notifications from your Telegram bot. 
